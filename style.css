@@ -205,4 +205,14 @@ footer h3{
 
 
 /******* media quarise ********/
-/********* mobile-divice ************gi/
+/********* mobile-divice ************/
+
+@media only screen and (max-width:688px) {
+    
+
+   .header1{
+  text-align: cente;
+
+  }
+}
+
